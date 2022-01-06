@@ -1,0 +1,30 @@
+{
+    "name": "bergzou/yii2-yar-rpc",
+    "description": "yii2-yar-rpc",
+    "keywords": ["yii2", "yii2-yar", "yii2-yar-rpc"],
+    "minimum-stability": "dev",
+    "authors": [
+      {
+        "name": "Berg.Zou",
+        "email": "343144626@qq.com"
+      }
+    ],
+    "require": {
+        "php": ">=7.2.0",
+        "yiisoft/yii2": "~2.0.14"
+    },
+    "repositories": [
+      {
+        "type": "composer",
+        "url": "https://asset-packagist.org"
+      }
+    ],
+    "require-dev":{
+      "bergzou/yii2-yar-rpc":"master"
+    },
+    "autoload": {
+      "psr-4": {
+        "bergzou\\rpc\\": "lib"
+      }
+    }
+}
