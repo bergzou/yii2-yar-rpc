@@ -1,6 +1,6 @@
 <?php
 
-namespace fengdangxing\rpc;
+namespace bergzou\rpc;
 
 class  Base
 {

@@ -1,5 +1,5 @@
 <?php
-namespace fengdangxing\rpc;
+namespace bergzou\rpc;
 
 use yii\base\Request;
 use yii\base\Response;
